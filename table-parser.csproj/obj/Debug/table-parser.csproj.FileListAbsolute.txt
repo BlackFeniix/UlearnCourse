@@ -1,0 +1,10 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\bin\Debug\data.txt
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\bin\Debug\TableParser.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\bin\Debug\TableParser.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\bin\Debug\TableParser.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\table-parser.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\table-parser.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\TableParser.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\table-parser.csproj\obj\Debug\TableParser.pdb

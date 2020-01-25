@@ -1,0 +1,14 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\MainWindow.g.cs
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\bin\Debug\HotelAccounting.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\bin\Debug\HotelAccounting.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\MainWindow.baml
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.g.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\HotelAccounting.csproj\obj\Debug\HotelAccounting.pdb

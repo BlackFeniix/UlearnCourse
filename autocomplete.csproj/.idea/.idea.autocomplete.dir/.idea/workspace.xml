@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94796747-e803-4325-8b2f-8e1e6ba5b513" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1548414116877" expanded="false" signature="6:41" ph="..." />
+                <marker date="1548414116877" expanded="true" signature="65:458" ph="{...}" />
+                <marker date="1548414116877" expanded="true" signature="101:456" ph="{...}" />
+                <marker date="1548414116877" expanded="true" signature="116:210" ph="///     The main entry point for the application. ... " />
+                <marker date="1548414116877" expanded="true" signature="265:450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeftBorderTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="39" column="40" selection-start-line="39" selection-end-line="40" />
+              <folding>
+                <marker date="1562221239216" expanded="false" signature="6:90" ph="..." />
+                <marker date="1562221239216" expanded="true" signature="114:2503" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="121:467" ph="/* Внимание! ... */" />
+                <marker date="1562221239216" expanded="true" signature="499:2501" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="514:917" ph="/// &lt;returns&gt; ... " />
+                <marker date="1562221239216" expanded="true" signature="1029:2495" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="1052:1221" ph="/* IReadOnlyList похож на List, но у него нет методов модификации списка. ... */" />
+                <marker date="1562221239216" expanded="true" signature="1259:1606" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="1328:1592" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="1672:2014" ph="{...}" />
+                <marker date="1562221239216" expanded="true" signature="2027:2133" ph="/* if (phrases[right].StartsWith(prefix, StringComparison.OrdinalIgnoreCase)) ... */" />
+                <marker date="1562221239216" expanded="true" signature="2159:2449" ph="/* for (int i = 0; i &lt; phrases.Count; i++) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RightBorderTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="36" selection-end-column="25" />
+              <folding>
+                <marker date="1562350806721" expanded="false" signature="6:66" ph="..." />
+                <marker date="1562350806721" expanded="true" signature="90:1617" ph="{...}" />
+                <marker date="1562350806721" expanded="true" signature="125:1615" ph="{...}" />
+                <marker date="1562350806721" expanded="true" signature="140:563" ph="/// &lt;returns&gt; ... " />
+                <marker date="1562350806721" expanded="true" signature="676:1609" ph="{...}" />
+                <marker date="1562350806721" expanded="true" signature="699:868" ph="/* IReadOnlyList похож на List, но у него нет методов модификации списка. ... */" />
+                <marker date="1562350806721" expanded="true" signature="919:1271" ph="{...}" />
+                <marker date="1562350806721" expanded="true" signature="1284:1573" ph="/* for (var i = right-1; i &gt; left; i--) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutocompleteTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <marker date="1562529131310" expanded="false" signature="6:89" ph="..." />
+                <marker date="1562529131310" expanded="true" signature="113:3008" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="151:2563" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="166:439" ph="/// &lt;returns&gt; ... " />
+                <marker date="1562529131310" expanded="true" signature="532:840" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="850:1121" ph="/// &lt;returns&gt; ... " />
+                <marker date="1562529131310" expanded="true" signature="1224:1973" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="1647:1921" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="1678:1759" ph="/* if (i&gt;-1 &amp;&amp; i&lt;phrases.Count) ... */" />
+                <marker date="1562529131310" expanded="true" signature="1983:2093" ph="/// &lt;returns&gt; ... " />
+                <marker date="1562529131310" expanded="true" signature="2182:2557" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="2617:3006" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="2694:2789" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="2717:2779" ph="/* ... ... */" />
+                <marker date="1562529131310" expanded="true" signature="2886:2984" ph="{...}" />
+                <marker date="1562529131310" expanded="true" signature="2909:2974" ph="/* ... ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RightBorderTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeftBorderTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AutocompleteForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Phrases.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AutocompleteTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PhrasesLoader.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LeftBorderTask.cs" />
+        <option value="$PROJECT_DIR$/RightBorderTask.cs" />
+        <option value="$PROJECT_DIR$/AutocompleteTask.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="978" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="autocomplete" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/Autocomplete.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/autocomplete.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser name="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94796747-e803-4325-8b2f-8e1e6ba5b513" name="Default Changelist" comment="" />
+      <created>1562051404751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562051404751</updated>
+      <workItem from="1562051409232" duration="14014000" />
+      <workItem from="1562325762501" duration="284000" />
+      <workItem from="1562348609917" duration="1734000" />
+      <workItem from="1562520861672" duration="6201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22233000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19417475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3015598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32928944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32928944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Designer Toolbox" order="3" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PhrasesLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1548414116869" expanded="false" signature="6:108" ph="..." />
+            <marker date="1548414116869" expanded="true" signature="132:1633" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="165:1631" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="235:515" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="598:855" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="907:1112" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="1184:1625" ph="{...}" />
+            <marker date="1548414116869" expanded="true" signature="1387:1615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phrases.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1548414116856" expanded="false" signature="6:73" ph="..." />
+            <marker date="1548414116856" expanded="true" signature="97:1722" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="148:1720" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="359:485" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="771:1195" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="797:1185" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="1247:1350" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="1399:1455" ph="{...}" />
+            <marker date="1548414116856" expanded="true" signature="1535:1714" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutocompleteForm.cs">
+      <provider editor-type-id="WinFormsEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <marker date="1548414116796" expanded="false" signature="6:97" ph="..." />
+            <marker date="1548414116796" expanded="true" signature="121:3343" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="172:3341" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="302:357" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="430:964" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="688:879" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="1041:1513" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="1591:2337" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="2409:2572" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="2612:2918" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="2966:3335" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="2992:3081" ph="{...}" />
+            <marker date="1548414116796" expanded="true" signature="3113:3325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1548414116955" expanded="false" signature="6:67" ph="..." />
+            <marker date="1548414116955" expanded="true" signature="91:703" ph="{...}" />
+            <marker date="1548414116955" expanded="true" signature="132:701" ph="{...}" />
+            <marker date="1548414116955" expanded="true" signature="245:695" ph="{...}" />
+            <marker date="1548414116955" expanded="true" signature="492:612" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dic/adjectives.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16723" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dic/nouns.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14293">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dic/verbs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1548414116877" expanded="false" signature="6:41" ph="..." />
+            <marker date="1548414116877" expanded="true" signature="65:458" ph="{...}" />
+            <marker date="1548414116877" expanded="true" signature="101:456" ph="{...}" />
+            <marker date="1548414116877" expanded="true" signature="116:210" ph="///     The main entry point for the application. ... " />
+            <marker date="1548414116877" expanded="true" signature="265:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeftBorderTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="40" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <marker date="1562221239216" expanded="false" signature="6:90" ph="..." />
+            <marker date="1562221239216" expanded="true" signature="114:2503" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="121:467" ph="/* Внимание! ... */" />
+            <marker date="1562221239216" expanded="true" signature="499:2501" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="514:917" ph="/// &lt;returns&gt; ... " />
+            <marker date="1562221239216" expanded="true" signature="1029:2495" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="1052:1221" ph="/* IReadOnlyList похож на List, но у него нет методов модификации списка. ... */" />
+            <marker date="1562221239216" expanded="true" signature="1259:1606" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="1328:1592" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="1672:2014" ph="{...}" />
+            <marker date="1562221239216" expanded="true" signature="2027:2133" ph="/* if (phrases[right].StartsWith(prefix, StringComparison.OrdinalIgnoreCase)) ... */" />
+            <marker date="1562221239216" expanded="true" signature="2159:2449" ph="/* for (int i = 0; i &lt; phrases.Count; i++) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RightBorderTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <marker date="1562350806721" expanded="false" signature="6:66" ph="..." />
+            <marker date="1562350806721" expanded="true" signature="90:1617" ph="{...}" />
+            <marker date="1562350806721" expanded="true" signature="125:1615" ph="{...}" />
+            <marker date="1562350806721" expanded="true" signature="140:563" ph="/// &lt;returns&gt; ... " />
+            <marker date="1562350806721" expanded="true" signature="676:1609" ph="{...}" />
+            <marker date="1562350806721" expanded="true" signature="699:868" ph="/* IReadOnlyList похож на List, но у него нет методов модификации списка. ... */" />
+            <marker date="1562350806721" expanded="true" signature="919:1271" ph="{...}" />
+            <marker date="1562350806721" expanded="true" signature="1284:1573" ph="/* for (var i = right-1; i &gt; left; i--) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autocomplete.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutocompleteTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <marker date="1562529131310" expanded="false" signature="6:89" ph="..." />
+            <marker date="1562529131310" expanded="true" signature="113:3008" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="151:2563" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="166:439" ph="/// &lt;returns&gt; ... " />
+            <marker date="1562529131310" expanded="true" signature="532:840" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="850:1121" ph="/// &lt;returns&gt; ... " />
+            <marker date="1562529131310" expanded="true" signature="1224:1973" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="1647:1921" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="1678:1759" ph="/* if (i&gt;-1 &amp;&amp; i&lt;phrases.Count) ... */" />
+            <marker date="1562529131310" expanded="true" signature="1983:2093" ph="/// &lt;returns&gt; ... " />
+            <marker date="1562529131310" expanded="true" signature="2182:2557" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="2617:3006" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="2694:2789" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="2717:2779" ph="/* ... ... */" />
+            <marker date="1562529131310" expanded="true" signature="2886:2984" ph="{...}" />
+            <marker date="1562529131310" expanded="true" signature="2909:2974" ph="/* ... ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

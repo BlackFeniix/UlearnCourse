@@ -1,0 +1,11 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\names.txt
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\Names.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\Names.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\Names.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\obj\Debug\Names.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Names.csproj\obj\Debug\Names.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\Procent\Procent\bin\Debug\Procent.exe
+C:\Users\Nikolay\Desktop\Procent\Procent\bin\Debug\Procent.pdb
+C:\Users\Nikolay\Desktop\Procent\Procent\obj\Debug\Procent.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Procent\Procent\obj\Debug\Procent.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Procent\Procent\obj\Debug\Procent.exe
+C:\Users\Nikolay\Desktop\Procent\Procent\obj\Debug\Procent.pdb

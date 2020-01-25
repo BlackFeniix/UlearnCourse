@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\dic\adjectives.txt
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\dic\nouns.txt
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\dic\verbs.txt
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\Autocomplete.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\Autocomplete.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\Autocomplete.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\autocomplete.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\Autocomplete.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj\obj\Debug\Autocomplete.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\bin\Debug\Profiling.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\bin\Debug\Profiling.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\bin\Debug\Profiling.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\bin\Debug\ZedGraph.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\bin\Debug\ZedGraph.xml
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.csproj.CopyComplete
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\Profiling.csproj\obj\Debug\Profiling.pdb

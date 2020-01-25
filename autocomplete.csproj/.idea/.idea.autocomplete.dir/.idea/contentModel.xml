@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nikolay\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nikolay\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nikolay\Desktop\Ulearn_Projects\autocomplete.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="autocomplete.csproj" t="IncludeRecursive" />
+      <e p="AutocompleteForm.cs" t="Include" />
+      <e p="AutocompleteForm.Designer.cs" t="Include" />
+      <e p="AutocompleteForm.resx" t="Include" />
+      <e p="AutocompleteTask.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="dic" t="Include">
+        <e p="adjectives.txt" t="Include" />
+        <e p="nouns.txt" t="Include" />
+        <e p="verbs.txt" t="Include" />
+      </e>
+      <e p="LeftBorderTask.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Phrases.cs" t="Include" />
+      <e p="PhrasesLoader.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="RightBorderTask.cs" t="Include" />
+      <e p="TaskExtensions.cs" t="Include" />
+    </e>
+  </component>
+</project>

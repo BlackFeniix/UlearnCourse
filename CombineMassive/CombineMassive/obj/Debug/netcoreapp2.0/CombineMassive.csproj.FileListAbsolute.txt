@@ -1,0 +1,10 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\bin\Debug\netcoreapp2.0\CombineMassive.deps.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\bin\Debug\netcoreapp2.0\CombineMassive.runtimeconfig.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\bin\Debug\netcoreapp2.0\CombineMassive.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\bin\Debug\netcoreapp2.0\CombineMassive.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\bin\Debug\netcoreapp2.0\CombineMassive.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\obj\Debug\netcoreapp2.0\CombineMassive.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\obj\Debug\netcoreapp2.0\CombineMassive.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\obj\Debug\netcoreapp2.0\CombineMassive.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\obj\Debug\netcoreapp2.0\CombineMassive.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\CombineMassive\CombineMassive\obj\Debug\netcoreapp2.0\CombineMassive.pdb

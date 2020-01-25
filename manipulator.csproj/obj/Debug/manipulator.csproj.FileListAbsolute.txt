@@ -1,0 +1,11 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\bin\Debug\Manipulator.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\bin\Debug\Manipulator.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\bin\Debug\Manipulator.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\Manipulator.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\manipulator.csproj\obj\Debug\Manipulator.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe.config
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\bin\Debug\GeometryPainting.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.exe
+C:\Users\Nikolay\Desktop\Ulearn_Projects\GeometryPainting.csproj\obj\Debug\GeometryPainting.pdb

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abc6410c-ee97-4da0-8723-9a28e08ada77" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VisualizerTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding>
+                <marker date="1563401895888" expanded="false" signature="6:82" ph="..." />
+                <marker date="1563401895888" expanded="true" signature="106:5074" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="144:5072" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="755:1129" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="848:879" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="909:942" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="972:1001" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1031:1060" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1191:1530" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1592:1776" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1694:1726" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1818:2377" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="1826:1993" ph="/* Вызовите ManipulatorTask.MoveManipulatorTo и обновите значения полей Shoulder, Elbow и Wrist, ... */" />
+                <marker date="1563401895888" expanded="true" signature="2133:2227" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="2252:2373" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="2454:3612" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="3352:3608" ph="/* Нарисуйте сегменты манипулятора методом graphics.DrawLine используя ManipulatorPen. ... */" />
+                <marker date="1563401895888" expanded="true" signature="3722:3874" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="4081:4585" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="4635:4722" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="4804:4892" ph="{...}" />
+                <marker date="1563401895888" expanded="true" signature="4976:5068" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TriangleTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <marker date="1563377086564" expanded="false" signature="6:36" ph="..." />
+                <marker date="1563377086564" expanded="true" signature="60:1017" ph="{...}" />
+                <marker date="1563377086564" expanded="true" signature="92:540" ph="{...}" />
+                <marker date="1563377086564" expanded="true" signature="107:243" ph="/// Возвращает угол (в радианах) между сторонами a и b в треугольнике со сторонами a, b, c  ... " />
+                <marker date="1563377086564" expanded="true" signature="313:534" ph="{...}" />
+                <marker date="1563377086564" expanded="true" signature="392:455" ph="{...}" />
+                <marker date="1563377086564" expanded="true" signature="595:1014" ph="{...}" />
+                <marker date="1563377086564" expanded="true" signature="904:1008" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manipulator.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ManipulatorTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+              <folding>
+                <marker date="1563402985265" expanded="false" signature="6:58" ph="..." />
+                <marker date="1563402985265" expanded="true" signature="82:1826" ph="{...}" />
+                <marker date="1563402985265" expanded="true" signature="124:1465" ph="{...}" />
+                <marker date="1563402985265" expanded="true" signature="140:443" ph="/// Возвращает массив углов (shoulder, elbow, wrist), ... " />
+                <marker date="1563402985265" expanded="true" signature="526:1459" ph="{...}" />
+                <marker date="1563402985265" expanded="true" signature="1523:1824" ph="{...}" />
+                <marker date="1563402985265" expanded="true" signature="1713:1818" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/c5/0a354e85/ParallelWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/3e/7c4a6826/TestWorker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AnglesToCoordinatesTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AntiFlickerForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/c2/e2eacfa3/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/f3/4b88223b/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TriangleTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/44/855c0452/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ManipulatorTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Manipulator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VisualizerTask.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AnglesToCoordinatesTask.cs" />
+        <option value="$PROJECT_DIR$/TriangleTask.cs" />
+        <option value="$PROJECT_DIR$/VisualizerTask.cs" />
+        <option value="$PROJECT_DIR$/ManipulatorTask.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="978" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="manipulator" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/Manipulator.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/manipulator.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc6410c-ee97-4da0-8723-9a28e08ada77" name="Default Changelist" comment="" />
+      <created>1562529280833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562529280833</updated>
+      <workItem from="1562529282069" duration="6955000" />
+      <workItem from="1562884108797" duration="374000" />
+      <workItem from="1562884839845" duration="379000" />
+      <workItem from="1562940448979" duration="5868000" />
+      <workItem from="1562967578659" duration="1214000" />
+      <workItem from="1563053626503" duration="309000" />
+      <workItem from="1563098886873" duration="2520000" />
+      <workItem from="1563209528815" duration="299000" />
+      <workItem from="1563367338874" duration="9352000" />
+      <workItem from="1563399338231" duration="5165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32435000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17394821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3084922" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919093" weight="0.39688042" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32928944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5008091" side_tool="true" weight="0.39688042" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32582322" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32928804" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17394821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3084922" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919093" weight="0.39688042" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32928944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5008091" side_tool="true" weight="0.39688042" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32582322" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32928804" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="154" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="25" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="25" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AnglesToCoordinatesTask.cs</url>
+          <line>40</line>
+          <properties documentPath="$PROJECT_DIR$/AnglesToCoordinatesTask.cs" initialLine="40">
+            <startOffsets>
+              <option value="1823" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1824" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TriangleTask.cs</url>
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/TriangleTask.cs" initialLine="11">
+            <startOffsets>
+              <option value="322" />
+            </startOffsets>
+            <endOffsets>
+              <option value="323" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ManipulatorTask.cs</url>
+          <line>36</line>
+          <properties documentPath="$PROJECT_DIR$/ManipulatorTask.cs" initialLine="36">
+            <startOffsets>
+              <option value="1722" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1723" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RiderUnitTests">
+        <watch expression="ManipulatorTask.MoveManipulatorTo(x,y,angle) returned[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Manipulator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1548414117183" expanded="true" signature="53:188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manipulator.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-end-line="38" />
+          <folding>
+            <marker date="1548414117208" expanded="false" signature="6:95" ph="..." />
+            <marker date="1548414117208" expanded="true" signature="119:1494" ph="{...}" />
+            <marker date="1548414117208" expanded="true" signature="146:1492" ph="{...}" />
+            <marker date="1548414117208" expanded="true" signature="241:326" ph="{...}" />
+            <marker date="1548414117208" expanded="true" signature="371:991" ph="{...}" />
+            <marker date="1548414117208" expanded="true" signature="1055:1486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/c5/0a354e85/ParallelWorkItemDispatcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/c2/e2eacfa3/CompositeWorkItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/44/855c0452/WorkItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/3e/7c4a6826/TestWorker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F051FD38-B8F0-4BAD-BF3B-521364502D8C/f3/4b88223b/Reflect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <marker date="1563373033941" expanded="true" signature="0:325" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1563373033941" expanded="false" signature="333:450" ph="..." />
+            <marker date="1563373033941" expanded="true" signature="486:3977" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="518:3975" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="856:1366" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="1124:1232" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="1451:1686" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="1569:1660" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="1733:2024" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="2091:2512" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="2571:2796" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="2870:2951" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3047:3503" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3135:3196" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3234:3280" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3323:3404" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3431:3497" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3569:3971" ph="{...}" />
+            <marker date="1563373033941" expanded="true" signature="3630:3965" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AntiFlickerForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1548414117158" expanded="true" signature="51:308" ph="{...}" />
+            <marker date="1548414117158" expanded="true" signature="93:306" ph="{...}" />
+            <marker date="1548414117158" expanded="true" signature="132:300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnglesToCoordinatesTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1563053747562" expanded="false" signature="6:58" ph="..." />
+            <marker date="1563053747562" expanded="true" signature="132:1295" ph="{...}" />
+            <marker date="1563053747562" expanded="true" signature="147:311" ph="/// По значению углов суставов возвращает массив координат суставов ... " />
+            <marker date="1563053747562" expanded="true" signature="405:1289" ph="{...}" />
+            <marker date="1563053747562" expanded="true" signature="1184:1278" ph="{...}" />
+            <marker date="1563053747562" expanded="true" signature="1360:2189" ph="{...}" />
+            <marker date="1563053747562" expanded="true" signature="1375:1539" ph="/* Доработайте эти тесты! ... */" />
+            <marker date="1563053747562" expanded="true" signature="1814:2183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manipulator.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizerTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <marker date="1563401895888" expanded="false" signature="6:82" ph="..." />
+            <marker date="1563401895888" expanded="true" signature="106:5074" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="144:5072" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="755:1129" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="848:879" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="909:942" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="972:1001" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1031:1060" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1191:1530" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1592:1776" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1694:1726" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1818:2377" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="1826:1993" ph="/* Вызовите ManipulatorTask.MoveManipulatorTo и обновите значения полей Shoulder, Elbow и Wrist, ... */" />
+            <marker date="1563401895888" expanded="true" signature="2133:2227" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="2252:2373" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="2454:3612" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="3352:3608" ph="/* Нарисуйте сегменты манипулятора методом graphics.DrawLine используя ManipulatorPen. ... */" />
+            <marker date="1563401895888" expanded="true" signature="3722:3874" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="4081:4585" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="4635:4722" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="4804:4892" ph="{...}" />
+            <marker date="1563401895888" expanded="true" signature="4976:5068" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TriangleTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1563377086564" expanded="false" signature="6:36" ph="..." />
+            <marker date="1563377086564" expanded="true" signature="60:1017" ph="{...}" />
+            <marker date="1563377086564" expanded="true" signature="92:540" ph="{...}" />
+            <marker date="1563377086564" expanded="true" signature="107:243" ph="/// Возвращает угол (в радианах) между сторонами a и b в треугольнике со сторонами a, b, c  ... " />
+            <marker date="1563377086564" expanded="true" signature="313:534" ph="{...}" />
+            <marker date="1563377086564" expanded="true" signature="392:455" ph="{...}" />
+            <marker date="1563377086564" expanded="true" signature="595:1014" ph="{...}" />
+            <marker date="1563377086564" expanded="true" signature="904:1008" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ManipulatorTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+          <folding>
+            <marker date="1563402985265" expanded="false" signature="6:58" ph="..." />
+            <marker date="1563402985265" expanded="true" signature="82:1826" ph="{...}" />
+            <marker date="1563402985265" expanded="true" signature="124:1465" ph="{...}" />
+            <marker date="1563402985265" expanded="true" signature="140:443" ph="/// Возвращает массив углов (shoulder, elbow, wrist), ... " />
+            <marker date="1563402985265" expanded="true" signature="526:1459" ph="{...}" />
+            <marker date="1563402985265" expanded="true" signature="1523:1824" ph="{...}" />
+            <marker date="1563402985265" expanded="true" signature="1713:1818" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

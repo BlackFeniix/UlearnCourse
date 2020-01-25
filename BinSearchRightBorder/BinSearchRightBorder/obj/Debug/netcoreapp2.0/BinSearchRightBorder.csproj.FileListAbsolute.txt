@@ -1,0 +1,10 @@
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\bin\Debug\netcoreapp2.0\BinSearchRightBorder.deps.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\bin\Debug\netcoreapp2.0\BinSearchRightBorder.runtimeconfig.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\bin\Debug\netcoreapp2.0\BinSearchRightBorder.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\bin\Debug\netcoreapp2.0\BinSearchRightBorder.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\bin\Debug\netcoreapp2.0\BinSearchRightBorder.pdb
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\obj\Debug\netcoreapp2.0\BinSearchRightBorder.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\obj\Debug\netcoreapp2.0\BinSearchRightBorder.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\obj\Debug\netcoreapp2.0\BinSearchRightBorder.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\obj\Debug\netcoreapp2.0\BinSearchRightBorder.dll
+C:\Users\Nikolay\Desktop\Ulearn_Projects\BinSearchRightBorder\BinSearchRightBorder\obj\Debug\netcoreapp2.0\BinSearchRightBorder.pdb
